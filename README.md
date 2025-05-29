@@ -1,5 +1,4 @@
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 # ✨ Hola 👋, me llamo JuanRomero ✨
 
 ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador apasionado por aprender algo nuevo cada dia.
