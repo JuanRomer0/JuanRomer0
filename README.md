@@ -1,4 +1,3 @@
-
 # ✨ Hola 👋, me llamo JuanRomero ✨
 
 ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador apasionado por aprender algo nuevo cada dia.
@@ -7,9 +6,6 @@
 
 ## 🚀 Sobre mí
 
-- 🎓 Formación: [Tu carrera o cursos importantes]
-- 🧠 Intereses: [Temas que te gustan: IA, diseño web, videojuegos, etc.]
-- 🌍 Vivo en: [Tu país o ciudad]
 - 🛠️ Tecnologías que uso:
   ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
@@ -21,7 +17,7 @@
 ## 📂 Proyectos Destacados
 
 ### 🌟 [Anime Wear]
-es una paguina web de practica en la que se muestra el dise;o base de una paguina de compra de ropa en linea, tecnologias usadas: Css y Html .
+es una pagina web de practica en la que se muestra el diseño base de una pagina de compra de ropa en linea, tecnologias usadas: Css y Html .
 
 🔗 [Ver repositorio](https://github.com/JuanRomer0/ProyectoLimpioHTML) | 🌐 [Demo en vivo](https://tiendaropaanimewear.netlify.app/))
 
