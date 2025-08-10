@@ -1,7 +1,5 @@
 ![banner](./Welcome%20to%20github%20ft.Danny.gif)
 
-# ✨ Hola 👋, me llamo JuanRomero ✨
-
 ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador apasionado por aprender algo nuevo cada dia.
 
 ---
