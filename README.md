@@ -1,3 +1,5 @@
+![banner](./Welcome%20to%20github%20ft.Danny.gif)
+
 # ✨ Hola 👋, me llamo JuanRomero ✨
 
 ¡Bienvenido a mi espacio en GitHub! Soy un desarrollador apasionado por aprender algo nuevo cada dia.
@@ -30,5 +32,5 @@ es una pagina web de practica en la que se muestra el diseño base de una pagina
 
 
 ---
+![gitbye](./WELCOME%20TO%20GITHUB.gif)
 
-> “Más contenido proximamente...”  
